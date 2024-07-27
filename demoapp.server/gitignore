@@ -1,0 +1,83 @@
+# .NET Core / .NET 5+ / .NET 8
+**/*.dll
+**/*.exe
+**/*.pdb
+**/*.log
+**/*.vsix
+**/*.nupkg
+**/*.snupkg
+**/*.docfx.json
+**/*.builds
+*.dbmdl
+*.bak
+*.log
+*.sql
+*.cache
+*.gitignore
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.cache
+*.sln.iml
+*.idea/
+
+# Visual Studio
+.vscode/
+*.csproj.user
+*.csproj.gtt
+*.suo
+*.cache
+*.suo
+*.sln.docstates
+*.vs/
+
+# ASP.NET
+wwwroot/
+appsettings*.json
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Aa]ssets/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ib/
+[Ll]ibraries/
+
+# Npm
+node_modules/
+
+# Others
+*.dotCover
+*.coverage
+*.coveragexml
+*.ncrunch*
+*.js.map
+*.d.ts
+*.tsbuildinfo
+*.jfm
+
+# Dotnet files
+*.vs
+*.vscode
+*.pnp.js
+*.pnp.cjs
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini

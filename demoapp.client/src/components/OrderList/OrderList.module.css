@@ -1,0 +1,39 @@
+.orderTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .orderTable th, .orderTable td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .orderTable th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .orderTable tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .orderTable tr:hover {
+    background-color: #e0e0e0;
+  }
+
+  .shipped {
+    background-color: #d1ecf1;
+    color: #0c5460;
+  }
+  
+  .pending {
+    background-color: #fff3cd;
+    color: #856404;
+  }
+  
+  .delivered {
+    background-color: #d4edda;
+    color: #155724;
+  }

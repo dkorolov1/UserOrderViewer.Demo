@@ -25,4 +25,4 @@ Alternatively, you can start everything with a single command using **Docker Com
 
 # Test It Out 🎇
 
-![enter image description here](https://i.postimg.cc/bY5TKbbr/2024-08-14-22-48-08.gif)
+![enter image description here](https://i.postimg.cc/q79m23Lz/2024-08-14-22-55-12.gif)
